@@ -6,7 +6,7 @@ This project is an x86 Assembly Language program that processes student names an
 ## Requirements  
 To complete this lab, you will need:  
 
-- **Microsoft Visual Studio** (Available through KSU UITS Software, CCSE Tutoring Center computers, or Virtual Machine)  
+- **Microsoft Visual Studio**   
 - **Irvine32 Library** (Provided by Kip Irvine)  
 - **x86 Assembly Language Knowledge**  
 
