@@ -62,7 +62,7 @@ To complete this lab, you will need:
   - Counts and displays the grade distribution.  
 
 ## Example Output  
-'''
+'''vs
   Unsorted List: Caroline 40 Constant 30 Wyatt 100 ...
   Sorted List: Wyatt 100 Liz 95 Meg 90 ...
   Grade Count: 34102
